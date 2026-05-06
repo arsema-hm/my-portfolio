@@ -888,4 +888,30 @@ footer {
     .section-title {
         font-size: 1.8rem;
     }
+    /* Add this to your style.css file */
+.contact-info {
+    background: #e8f4f8;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.contact-info p {
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+}
+
+.contact-info a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.contact-form h3 {
+    margin-bottom: 1rem;
+    color: #2c3e50;
+}
 }
